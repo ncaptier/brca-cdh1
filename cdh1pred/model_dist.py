@@ -1,3 +1,7 @@
+"""
+In parts from https://github.com/KatherLab/STAMP/blob/main/stamp/modeling/marugoto/transformer/TransMIL.py
+"""
+
 import torch
 from torch import nn
 from einops import repeat

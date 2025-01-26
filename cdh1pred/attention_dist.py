@@ -1,3 +1,7 @@
+"""
+In parts from https://github.com/AliHaiderAhmad001/Self-Attention-with-Relative-Position-Representations/
+"""
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F

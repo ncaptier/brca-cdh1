@@ -1,3 +1,7 @@
+"""
+In parts from https://github.com/KatherLab/STAMP/blob/main/stamp/modeling/marugoto/transformer/data.py
+"""
+
 from torch.utils.data import Dataset
 import torch
 import h5py

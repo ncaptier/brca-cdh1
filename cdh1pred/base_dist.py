@@ -1,3 +1,7 @@
+"""
+In parts from https://github.com/KatherLab/STAMP/blob/main/stamp/modeling/marugoto/transformer/base.py
+"""
+
 from functools import partial
 
 import torch
