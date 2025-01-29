@@ -1,6 +1,6 @@
 # brca-cdh1
 
-This repository proposes a Pytorch implementation of vision transformer model with a distance-aware self-attention mechanism to predict the CDH1 mutational status of breast cancer patients from Whole Slide Images (WSI).
+This repository proposes a Pytorch implementation of a vision transformer model with a distance-aware self-attention mechanism to predict the CDH1 mutational status of breast cancer patients from Whole Slide Images (WSI).
 
 This Python implementation is inspired by the [STAMP protocol](https://github.com/KatherLab/STAMP) as well as by [a work from Ali Haider Ahmad](https://github.com/AliHaiderAhmad001/Self-Attention-with-Relative-Position-Representations).
 
